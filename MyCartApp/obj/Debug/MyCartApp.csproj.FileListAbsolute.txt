@@ -1,0 +1,16 @@
+c:\users\test66445\documents\MyCartApp\MyCartApp\bin\MyCartApp.dll
+c:\users\test66445\documents\MyCartApp\MyCartApp\bin\MyCartApp.pdb
+c:\users\test66445\documents\MyCartApp\MyCartApp\obj\Debug\MyCartApp.csprojResolveAssemblyReference.cache
+c:\users\test66445\documents\MyCartApp\MyCartApp\obj\Debug\MyCartApp.dll
+c:\users\test66445\documents\MyCartApp\MyCartApp\obj\Debug\MyCartApp.pdb
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\bin\MyCartApp.dll.config
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\bin\MyCartApp.dll
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\bin\MyCartApp.pdb
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\obj\Debug\MyCartApp.csprojResolveAssemblyReference.cache
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\obj\Debug\MyCartApp.dll
+C:\Users\Shiva\Desktop\Project\MyCartApp\MyCartApp\obj\Debug\MyCartApp.pdb
+C:\Users\test66445\Desktop\updatedProject\MyCartApp\MyCartApp\bin\MyCartApp.dll
+C:\Users\test66445\Desktop\updatedProject\MyCartApp\MyCartApp\bin\MyCartApp.pdb
+C:\Users\test66445\Desktop\updatedProject\MyCartApp\MyCartApp\obj\Debug\MyCartApp.csprojResolveAssemblyReference.cache
+C:\Users\test66445\Desktop\updatedProject\MyCartApp\MyCartApp\obj\Debug\MyCartApp.dll
+C:\Users\test66445\Desktop\updatedProject\MyCartApp\MyCartApp\obj\Debug\MyCartApp.pdb
